@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         val view = binding.root
-        setContentView(R.layout.activity_main)
+        setContentView(view)
 
         setupChipGroup()
     }
