@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">G\'day</string>
+    <string name="app_name">ChipGroup</string>
+    <string name="india">India</string>
+    <string name="biking">Biking</string>
+    <string name="aeroplane">Aeroplane</string>
+    <string name="mobile">Mobile</string>
 </resources>
